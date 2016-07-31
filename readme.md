@@ -34,6 +34,7 @@ You might also like [awesome-nodejs](https://github.com/sindresorhus/awesome-nod
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
 - [The Art of Node](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 - [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) - An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.
+- [Pragmatic modularity](http://mafintosh.com/pragmatic-modularity.html)
 
 
 ## Tools
